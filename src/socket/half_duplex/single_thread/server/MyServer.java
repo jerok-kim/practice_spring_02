@@ -1,4 +1,4 @@
-package socket.half_duplex.server;
+package socket.half_duplex.single_thread.server;
 
 import java.io.*;
 import java.io.OutputStreamWriter;

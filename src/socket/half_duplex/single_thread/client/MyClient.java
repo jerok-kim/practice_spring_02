@@ -1,4 +1,4 @@
-package socket.half_duplex.client;
+package socket.half_duplex.single_thread.client;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
